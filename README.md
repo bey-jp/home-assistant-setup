@@ -14,6 +14,8 @@ ChatGPT・Gemini などのチャット（Web・アプリ）でも使えます（
 https://github.com/bey-jp/home-assistant-setup/blob/main/AI_INSTRUCTIONS.md を読んで、「チャット型 AI の進め方」に従って、Home Assistant サーバーを作る手順を1つずつ案内してください。
 ```
 
+> **ベータ版（2026-11）**：ミニ PC 用の書き込みスクリプト `scripts/write-haos-x86.sh` は、まだ実機での通しテスト前です。試す場合は、消えて困るデータのない PC で使ってください。
+
 ## 対応している機種
 
 | 機種 | 方式 | 手順 |
